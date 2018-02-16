@@ -1,8 +1,8 @@
 title: Aditya Vaidyam
-description: 
+description: Exploring macOS Internals
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+remote_theme: johnotander/pixyll
 
 gems:
   - jekyll-mentions
