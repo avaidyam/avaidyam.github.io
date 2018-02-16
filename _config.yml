@@ -3,6 +3,3 @@ description: Exploring macOS Internals
 google_analytics: 
 show_downloads: false
 remote_theme: nielsenramon/chalk
-
-gems:
-  - jekyll-mentions
