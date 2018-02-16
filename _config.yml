@@ -2,5 +2,4 @@ title: Aditya Vaidyam
 description: Exploring macOS Internals
 google_analytics: 
 show_downloads: false
-remote_theme: nielsenramon/chalk
-theme: chalk
+remote_theme: chesterhow/tale
