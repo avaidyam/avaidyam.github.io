@@ -3,3 +3,9 @@ description: by Aditya Vaidyam
 google_analytics: 
 show_downloads: false
 remote_theme: broccolini/swiss
+baseurl: ""
+url: ""
+github_repo: avaidyam.github.io
+github_username: avaidyam
+social_link: twitter
+social_username: avaidyam
