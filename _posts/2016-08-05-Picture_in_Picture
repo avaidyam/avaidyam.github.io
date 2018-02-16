@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Picture-in-Picture on macOS Sierra"
+date:   2016-08-05 00:00:00 -0900
+---
+
+# Picture-in-Picture on macOS Sierra
+
+Similar to iOS, macOS recently gained Picture-In-Picture mode for videos; so far, only Safari seems to support it out of the box. The question remains: why isn’t it a public API? That’s a question we’ll never have an answer for, but as it turns out, PIP.framework does exist in the PrivateFrameworks realm, and a quick job of reverse engineering shows exactly how it works.
+PIPViewController is the entry point for the framework, which allows configuration of a single view in PIP mode; when presentViewControllerAsPictureInPicture is called with any view controller, it animates the view out into a PIPPanel. The PIPPanel actually registers and operates inside of NotificationCenter, allowing notifications to display around it. Surprisingly, that’s really all there is to it. PIPViewController tacks on three buttons (play/pause, close, return) and allows delegates to track things.
+A picture is worth a thousand words (see what I did there), so I’ve put together a quick SPI sample of how to actually use the framework over here!
