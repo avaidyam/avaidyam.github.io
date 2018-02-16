@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "ViewBridge.framework: It works!"
+date:   2017-10-01 00:00:00 -0900
+---
+
+# ViewBridge.framework: It works!
+
+Around two years ago I began looking into ViewBridge.framework and a bunch of related frameworks as a side-project, mostly for fun. Realizing I had figured out most of it but just hadn’t put it together, I assembled a quick demo project that worked almost instantly with ViewBridge. All I had to do was create an XPC service, add a few Info.plist keys, grab the headers (I cleaned a few up) and I was on the road. [You can see the results here.](https://github.com/avaidyam/RemoteViewHost)
+Put simply, it works, and it works great. There are a few event handling blips, but it does the job and loads the service view in less than 300ms on my machine. The next step for me will be to create a new branch in which I define my own NSExtensionSDK with the NSViewService_PKSubsystem and make it all “extensible” like Today Widgets are. I would have had that working, but pkd refuses to learn my NSExtensionSDK for some reason.
+
+![Sample](https://raw.githubusercontent.com/avaidyam/RemoteViewHost/master/Sample.png)
