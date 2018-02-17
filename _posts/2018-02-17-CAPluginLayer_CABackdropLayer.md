@@ -21,7 +21,7 @@ layer.pluginGravity = kCAGravityResizeAspect
 //layer.pluginFlags = 0x4 // display without a shadow
 ```
 
-![CAPluginLayer Sample](/_assets/plugin-layer.png)
+![CAPluginLayer Sample](/assets/plugin-layer.png)
 
 So the big takeaway is, right now you can only use `CAPluginLayer` to mirror a window in real time (all its UI changes and interactions are reflected in the layer contents). You can set a `pluginGravity` similarly to `contentsGravity`, and the only known `pluginFlags` value is `0x4`, used by Dock to display the window without a shadow. 
 
@@ -52,7 +52,7 @@ layer.scale = 0.25
 layer.bleedAmount = 0.2
 ```
 
-![CABackdropLayer Sample](/_assets/backdrop-layer.png)
+![CABackdropLayer Sample](/assets/backdrop-layer.png)
 
 When using `CABackdropLayer`, be sure to set `windowServerAware` to `true`, and set `layerUsesCoreImageFilters` on its parent view to `false`, otherwise the effect won't work (as it's also rendered in `windowserver`). Any combination of `CAFilter`s will work on the `CABackdropLayer`, as none that I've tried have failed me yet, but in the code sample, I've replicated the macOS Sierra saturated vibrant light appearance (as close as possible). The `scale` is important to set as I believe it's the sampling size of the underlying contents, and setting it to `2.0` made rendering quite slow. I'm also not sure why, but `groupName` is always set on a backdrop layer and it's always unique. It has something to do with `windowserver` rendering as there is a property to make it a "globally unique" name. 
 
