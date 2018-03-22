@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Better RegisterEventHotKey"
-date:   2018-16-03 00:00:00 -0900
+date:   2018-03-16 00:00:00 -0900
 ---
 
 #  Building a Better `RegisterEventHotKey`!

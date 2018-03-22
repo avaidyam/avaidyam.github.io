@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Exercise in Modern Cocoa Views"
-date:   2018-22-03 00:00:00 -0900
+date:   2018-03-22 00:00:00 -0900
 ---
 
 # An Exercise in Modern Cocoa Views
