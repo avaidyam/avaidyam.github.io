@@ -9,3 +9,5 @@ github_repo: avaidyam.github.io
 github_username: avaidyam
 social_link: twitter
 social_username: avaidyam
+plugins:
+  - jekyll-feed
