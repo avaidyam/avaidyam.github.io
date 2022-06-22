@@ -76,7 +76,7 @@
     "url": "https://aditya.vaidyam.me/",
     "favicon": "photo.png",
     "organizationName": "avaidyam",
-    "projectName": "avaidyam.github.io",
+    "projectName": "aditya.vaidyam.me",
     "baseUrl": "/",
     "onBrokenLinks": "error",
     "onDuplicateRoutes": "error",
@@ -136,11 +136,12 @@
             }
           }
         }
-      ],
+      ]
+    ],
+    "plugins": [
       [
         "@docusaurus/plugin-client-redirects",
         {
-          "fromExtensions": ["html"],
           "redirects": [
             {
               "from": "/2019/06/02/iOS_vs_macOS.html",
