@@ -143,47 +143,47 @@
           "fromExtensions": ["html"],
           "redirects": [
             {
-              "from": "/2019/06/02/iOS_vs_macOS",
+              "from": "/2019/06/02/iOS_vs_macOS.html",
               "to": "/blog/2019/06/02/"
             },
             {
-              "from": "/2019/02/19/DIY-Core-Animation",
+              "from": "/2019/02/19/DIY-Core-Animation.html",
               "to": "/blog/2019/02/19/"
             },
             {
-              "from": "/2018/03/22/Exercise-Modern-Cocoa-Views",
+              "from": "/2018/03/22/Exercise-Modern-Cocoa-Views.html",
               "to": "/blog/2018/03/22/"
             },
             {
-              "from": "/2018/03/16/Building-Better-RegisterEventHotKey",
+              "from": "/2018/03/16/Building-Better-RegisterEventHotKey.html",
               "to": "/blog/2018/03/16/"
             },
             {
-              "from": "/2018/02/22/SecretLife_CoreAnimation",
+              "from": "/2018/02/22/SecretLife_CoreAnimation.html",
               "to": "/blog/2018/02/22/"
             },
             {
-              "from": "/2018/02/19/CAStateController",
+              "from": "/2018/02/19/CAStateController.html",
               "to": "/blog/2018/02/19/"
             },
             {
-              "from": "/2018/02/18/CAPortalLayer",
+              "from": "/2018/02/18/CAPortalLayer.html",
               "to": "/blog/2018/02/18/"
             },
             {
-              "from": "/2018/02/17/CAPluginLayer_CABackdropLayer",
+              "from": "/2018/02/17/CAPluginLayer_CABackdropLayer.html",
               "to": "/blog/2018/02/17/"
             },
             {
-              "from": "/2017/10/01/ViewBridge",
+              "from": "/2017/10/01/ViewBridge.html",
               "to": "/blog/2017/10/01/"
             },
             {
-              "from": "/2016/08/05/Picture_in_Picture",
+              "from": "/2016/08/05/Picture_in_Picture.html",
               "to": "/blog/2016/08/05/"
             },
             {
-              "from": "/2016/07/12/NSExtension_PlugInKit",
+              "from": "/2016/07/12/NSExtension_PlugInKit.html",
               "to": "/blog/2016/07/12/"
             }
           ]
