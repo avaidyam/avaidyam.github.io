@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAditya_Vaidyam=self.webpackChunkAditya_Vaidyam||[]).push([[325],{4932:(a,t,e)=>{e.r(t),e.d(t,{default:()=>y});var i=e(7294),d=e(3557);function y(){return i.createElement(d.Z,{title:"Aditya Vaidyam",description:"Aditya Vaidyam"})}}}]);
