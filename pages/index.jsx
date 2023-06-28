@@ -27,7 +27,7 @@ export default function Home() {
                   </Link>
                   <Link
                     className="button button--secondary button--lg margin--xs"
-                    to="https://calendly.com/avaidyam/meet">
+                    to="https://aditya.vaidyam.me/meet">
                     Schedule a Meeting
                   </Link>
                 </div>
