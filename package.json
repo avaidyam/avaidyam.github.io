@@ -96,6 +96,11 @@
             "to": "/blog"
           },
           {
+            "label": "CV",
+            "position": "left",
+            "to": "/cv"
+          },
+          {
             "label": "Contact",
             "position": "right",
             "to": "/",
