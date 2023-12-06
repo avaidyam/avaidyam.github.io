@@ -148,4 +148,4 @@ Aditya Vaidyam is a second-year medical student at the Carle Illinois College of
 - Carle Illinois College of Medicine; Urbana, IL — M.D. Candidate, Expected May 2026
 - Boston University; Boston, MA — M.S. Medical Sciences, May 2019 
 - Purdue University; West Lafayette, IN — B.S. Neurobiology & Physiology, May 2017
-- Purdue University; West Lafayette, IN — B.S. Computer Science, May 2017
+- Purdue University; West Lafayette, IN — B.S. Computer Science — Systems Engineering, May 2017
