@@ -1,9 +1,4 @@
-
-# Education	
-- Carle Illinois College of Medicine; Urbana, IL — M.D. Candidate, Expected May 2026
-- Boston University; Boston, MA — M.S. Medical Sciences, May 2019 
-- Purdue University; West Lafayette, IN — B.S. Neurobiology & Physiology, May 2017
-- Purdue University; West Lafayette, IN — B.S. Computer Science, May 2017
+Aditya Vaidyam is a second-year medical student at the Carle Illinois College of Medicine and formerly Assistant Director of Clinical Systems at the Division of Digital Psychiatry at the Beth Israel Deaconess Medical Center. His research focus ranges from engineering and architecting healthcare systems that improve access and quality of care to investigating the underlying symptomatology of mental illness. As a principal architect of the LAMP Platform, Vaidyam focuses on elucidating the key design goals of a healthcare platform that supports personalized just-in-time adaptive interventions and digital phenotyping in populations with serious mental illnesses such as schizophrenia. In clinical research, Vaidyam focuses on the use of machine learning algorithms for longitudinal data analysis and personalized interventions for mindfulness and patient education. Vaidyam also investigates the digital therapeutic alliance as manifested in non-conventional digital formats, such as voice assistants, as well as the needs, requirements, and barriers to adoption in patients with serious mental illness. Vaidyam assisted in developing a program for digital skills training to help patients with limited technical experience access and rely on digital tools and apps assisting them in managing their physical or mental health. Vaidyam holds a BS in neurobiology & physiology and computer science from Purdue University, as well as an MS in medical science from Boston University.
 
 # Presentations
 
@@ -80,8 +75,7 @@
 
 - Co-Founder, mindLAMP Education and Research Organization (Nonprofit Foundation) — July 2022 to Current
 	- I co-founded a nonprofit foundation to further the goals of the LAMP Platform and global LAMP Consortium towards my personal mission to make digital health tools accessible to all.
-- Assistant Director of Clinical Systems, Division of Digital Psychiatry at the Beth Israel Deaconess Medical Center — July 2018 to July 2022
-	- URL: https://www.digitalpsych.org/
+- Assistant Director of Clinical Systems, [Division of Digital Psychiatry at the Beth Israel Deaconess Medical Center](https://www.digitalpsych.org/) — July 2018 to July 2022
 	- I architect and lead a digital mental health platform for individuals with serious mental illness, used by 50+ major hospitals and community clinics around the world. 
 	- I investigate machine learning algorithms for illness onset detection and hospitalization prediction, and build just-in-time adaptive interventions for use in clinical decision support.
 	- I spearhead equitable implementation by global healthcare systems of precision medicine frameworks and workflows for clinical teams to coordinate and engage with diverse populations. 
@@ -94,20 +88,18 @@
 	- I co-developed and conducted a series of digital skills training in-person and virtual workshops for diverse groups of both patients in recovery services and their clinicians; hosted in mental health community centers spanning from urban Boston to now rural Indiana, as well as the in-patient psychiatry at Beth Israel Deaconess Medical Center. 
 	- I assisted in developing the American Psychiatry Association app evaluation model and mindApps database for mental health apps trusted by clinicians. 
 	- I co-hosted weekly virtual technology help office hours during the pandemic for clinicians at Harvard teaching hospitals.
-- Research Assistant, Purdue / Aryal Lab — May 2017 to August 2017
-	- URL: https://www.purdue.edu/discoverypark/bioscience/directory/view.php?id=2365
+- Research Assistant, [Purdue / Aryal Lab](https://www.purdue.edu/discoverypark/bioscience/directory/view.php?id=2365) — May 2017 to August 2017
 	- Developed and optimized an iTRAQ (biomarker) labeling method for quantitative proteomics. 
 	- Extracted and fractionated native endogenous protein complexes from type-2 diabetes samples and processed labeled samples in mass spectrometry for protein identification and relative abundance profiling. 
 	- Observed and documented dynamics of proteasome complexes in young and old adult mouse liver, to better understand possible origin or manifestation of diabetes in the liver by tracking protein complexes involved in prior-identified biochemical pathways.
-- Research Assistant, Purdue / Comer Lab — August 2015 to May 2017
-	- URL: http://www.xinu.cs.purdue.edu/
+- Research Assistant, [Purdue / Comer Lab](http://www.xinu.cs.purdue.edu/) — August 2015 to May 2017
 	- Developed a GPIO driver solution for the XINU Operating System ("Xinu") on an Intel Quark SoC for IoT (Internet of Things, via ZigBee / 802.15.4) and IP stack capabilities. 
 	- Reimplemented the Xinu microkernel in the Mozilla Rust systems language for high performance, fault-safe and thread-safe concurrent embedded systems applications. 
 - Teaching Intern, Purdue / Department of Biological Sciences — August 2015 to May 2017
 	- Teaching instructor for lab sections of Human Design: Anatomy/Physiology I and II (BIOL 301, 302). 
 	- Proofread exams, graded lab documents, lectured 4 hours/week, and led hands-on labs (exercise physiology, biosignal measurement, urinalysis, dissection, etc).  — Assisted in retrofitting curriculum with new technology such as iPads and new physiology instrument kits.
-- Research Assistant, Purdue / Kihara Lab — August 2014 to July 2017
-	- URL: http://kiharalab.org/ — Developed distributed computation systems for proteomics algorithms, optimizing and improving prediction quality for protein structure, function, biological relevance, and potential ligands and binding pockets for use in drug design. 
+- Research Assistant, [Purdue / Kihara Lab](http://kiharalab.org/) — August 2014 to July 2017
+	 — Developed distributed computation systems for proteomics algorithms, optimizing and improving prediction quality for protein structure, function, biological relevance, and potential ligands and binding pockets for use in drug design. 
 	- Applied heterogenous computing principles to the Protein Function Prediction algorithm, in consort with adaptive prediction of most commonly requested proteomes during off-peak hours. 
 	- Developed front-end interfaces and distributed computational backend for LZerD and PL- PatchSurfer algorithms.
 
@@ -116,16 +108,15 @@
 - Chair, Central Indiana Section IEEE Engineering in Medicine and Biology Society — November 2022 to Current
 	- Revitalized the professional committee by connecting academic faculty, industry professionals, and graduate students through social and professional development events.
 	- Continuing mentorship of undergraduate students in the Purdue branch chapter by providing engineering or physiology lectures and workshops, as well as individualized career mentorship.
-- Technical Advisor, Purdue IEEE Engineering in Medicine and Biology Society — August 2015 to June 2017 
-	- URL: https://purdueieee.org/embs/
+- [Technical Advisor](https://purdueieee.org/embs/), Purdue IEEE Engineering in Medicine and Biology Society — August 2015 to June 2017 
 	- Co-founded (2015) and co-chaired (2016) the Purdue chapter of IEEE EMBS, involved in on-campus activities with a focus on technical, professional, and social development.
 	- Mentored and trained inexperienced students interested in the space of biomedical engineering in topics pertaining to the technical projects in EMBS. 
 	- Architected and led development of an open source biosignal measurement platform with electroencephalogram/electromyogram/electrocardiogram capability based on a low-cost TI ADS chipset. 
 	- Led a community project with the local no-kill dog shelter to 3D-print low cost personalized prosthetic limbs for dogs.
 	- Architected and led the development of the MyDoctor platform for outpatient diagnostics and expedited care; maps the patient's natural speech to diagnostic keywords and representation in ICD10 and SNOMED-CT codes; automatically books appointment using circumstantial heuristics (local triaging) and the FHIR protocol. 
 	- Led team developing automated convolutional image analysis and patient diagnostics/metrics instruments.  
-- President, Purdue IEEE — June 2016 to June 2017 
-	- URL: https://purdueieee.org/ — Overhauled operational model emphasizing unity between members and expanded the organization's influence in the engineering department. 
+- President, [Purdue IEEE](https://purdueieee.org/) — June 2016 to June 2017 
+	 — Overhauled operational model emphasizing unity between members and expanded the organization's influence in the engineering department. 
 	- Expanded to 200+ active members and 1500+ total members representing many majors across campus at Purdue, and accelerated both recruitment and engagement by 20% through the year. 
 	- Led acquisition of ~$30,000 total sponsorship and merit award from academia and industry for our continued participation in international competitions.
 	- Expanded outreach by partnering with Circle-K to teach introductory STEM lessons (Robotics, Biology, etc.) to children in local low-income communities. 
@@ -136,31 +127,25 @@
 
 # Projects 
 
-- MyDoctor — February 2017 to August 2017
-	- URL: https://github.com/pieee-embs/MyDoctor
+- [MyDoctor](https://github.com/pieee-embs/MyDoctor) — February 2017 to August 2017
 	- A conversational agent (“chatbot”) that helps make the process of visiting the doctor easier developed at HackIllinois 2017. Patients report symptoms in standard language which are then interpreted and matched as ICD-10 and SNOMED-CT codes, sent to their care provider. MyDoctor bridges the gap between patient and physician effectively as a local triage tool without faulty diagnosis, instead deferring the patient’s treatment plan to the physician. 
-- Purdue IEEE Directory Services — January 2017 to May 2017 
+- [Purdue IEEE Directory Services](https://github.com/PurdueIEEE/DirectoryServices) — January 2017 to May 2017 
 	- IEEE's DirectoryServices are a multipart API layer: an LDAP and Mailman REST API layer to support mailing list and profile read actions (currently only with Purdue's directory); a Directory API that manages members, their subscriptions and profiles; and an authentication layer that supports REST token-based stateless auth. DirectoryServices provides an auth-less user layer for other tools used internally. 
-- BoilerBooks (v2.0) — January 2017 to July 2017 
-	- URL: https://github.com/PurdueIEEE/boilerbooks/tree/v2 
+- [BoilerBooks (v2.0)](https://github.com/PurdueIEEE/boilerbooks/tree/v2) — January 2017 to July 2017 
 	- Co-developed and rewrote a financial tracking (expense reporting, reimbursement tracking, income & purchase approval facilitation, dues tracking, apparel sales) system for internal use by Purdue IEEE, including a REST API layer and ReactJS client SPA. 
-- Groupr — January 2017 to March 2017 
-	- URL: https://github.com/Groupr-Purdue
+- [Groupr](https://github.com/Groupr-Purdue) — January 2017 to March 2017 
 	- At Purdue, computer science students enroll in many courses that require teamwork to build software. The current method of forming groups involves the use of Piazza, a Q&A web service that is not primarily built for team building. Students can only view existing teams, as well as other students looking for teams, by relying on those people to post a comment. Groupr aims to solve this problem by allowing students to easily organize and communicate on one platform, built specifically for forming teams for classes at Purdue. Students will be able to see exactly which teams are looking for members, as well as everyone who is still looking. 
-- Xinu in Rust — June 2015 to August 2017 
-	- URL: https://github.com/real-xinu
+- [Xinu in Rust](https://github.com/real-xinu) — June 2015 to August 2017 
 	- A complete rewrite of the XINU kernel (developed by Prof. Doug Comer) in the experimental low-level systems language Rust (developed by the Mozilla Foundation). 
-- Health365 — June 2015 to August 2017 
-	- URL: https://github.com/ScienceSquad/Health
+- [Health365](https://github.com/ScienceSquad/Health) — June 2015 to August 2017 
 	- Health365 is a mobile smartphone and wearable app, seamlessly integrating health and wellness into its users’ lives. There currently exist several mobile applications that can be used to track calories, record physical activity, measure sleep patterns, etc., but few applications have managed to incorporate these into a single cohesive and user-friendly experience with insight and fitness suggestions. 
-- Parrot — August 2012 to August 2017 
-	- URL: https://github.com/avaidyam/Parrot 
+- [Parrot](https://github.com/avaidyam/Parrot) — August 2012 to August 2017 
 	- Parrot is a cross platform communication platform designed with a hardware-accelerated layered compositing framework UI, and scalable XMPP and REST backend supporting Windows, OS X, iOS, and Android. 
-- Binoculars — August 2011 to June 2013, August 2014 to May 2017 
-	- URL: https://github.com/avaidyam/Binoculars 
+- [Binoculars](https://github.com/avaidyam/Binoculars) — August 2011 to June 2013, August 2014 to May 2017  
 	- Binoculars is backed by an extensible multi-core parallel processing architecture that allows for dynamic runtime extensions, and communication over multiple nodes in a distributed cluster or grid. Anything from simple classroom discussion boards to distributed Maya model rendering is possible. Heterogenous computing is made simple and user-friendly. 
 
-# Skills
-
-- C; C++; C#; Objective-C; Java; Scala; R; Python; SQL; HTML5; CSS3; JavaScript (ES6/7); Swift; x86 Assembly; ARM Assembly; Cocoa; Cocoa Touch; React; React Native; Electron; iOS; Android; Mac; Parallel Computing; Distributed Systems;
-- Flow Cytometry; Hemocytometry; Enzyme Digestions; Western Blot; Transfection; PCR; SDS- PAGE; Gel Electrophoresis; Plasmid Purification; Mass Spectrometry; Tissue Perfusion; Research Techniques; NIH F1 Grant Proposals;
+# Education	
+- Carle Illinois College of Medicine; Urbana, IL — M.D. Candidate, Expected May 2026
+- Boston University; Boston, MA — M.S. Medical Sciences, May 2019 
+- Purdue University; West Lafayette, IN — B.S. Neurobiology & Physiology, May 2017
+- Purdue University; West Lafayette, IN — B.S. Computer Science, May 2017
