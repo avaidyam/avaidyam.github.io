@@ -14,7 +14,8 @@ Aditya Vaidyam is a second-year medical student at the Carle Illinois College of
 
 # Publications
 
-
+1. Wigman J, Ching A, Chung Y, ..., **Vaidyam A**, ..., Baker J, Torous J et al. Digital Health Technologies in The Accelerating Medicines Partnership® Schizophrenia Program. npj Schizophrenia. 2025. **In press.**
+1. Cohen A, Naslund J, Lane E, **Vaidyam A**, et al. Digital phenotyping data and anomaly detection methods to assess changes in mood and anxiety symptoms across a transdiagnostic clinical sample. Acta Psychiatr Scand. 2025;151(3):388-400. doi:10.1111/acps.13712
 1. Nanik Ram, **Aditya Vaidyam**, Amrik Eadara, Carsten Langholm, John Torous. Psychiatric Apps: Patient Self-Assessment, Communication, and Potential Treatment Interventions. *Untitled book chapter.* **In press.**
 1. John Torous, James Burns, Kelly Chen, Matthew Flathers, Danielle Currey, Natalia Macrynikola, **Aditya Vaidyam**, Carsten Langholm, Ian Barnett, Andrew Byun, Erlend Lane. Transforming Digital Phenotyping Raw Data into Actionable Biomarkers, Quality Metrics, and Data Visualizations: An Introduction to the Cortex Software Package. J Med Internet Res. http://dx.doi.org/10.2196/58502 **In Review.**
 1. Modan Goldman, **Aditya Vaidyam** , Sindhu Parupalli, Devendra Ramkumar, Holly Rosencranz, Japhia Ramkumar (2023). Microbiomes Matter: The Path to Regenerative Systems of Farm, Food and Health in the Age of Climate Change. MDPI Challenges. **In Review.** 
