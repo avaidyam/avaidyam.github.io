@@ -48,6 +48,7 @@ Aditya Vaidyam is a second-year medical student at the Carle Illinois College of
 
 # Abstracts & Posters
 
+1. Tong B, **Vaidyam A**, Brown B, Baskaran D, Gothe N. (May 2025). The Impact of Physical Exercise on Neurocognitive Function in Serious Mental Illness: A Meta Analysis. Poster presented at American Psychiatric Association Annual Meeting, Los Angeles, CA, USA. 
 1. **Aditya Vaidyam** *, Tony Wong*, Anthony Bosshardt*, Sid Limaye*, John Squire*, Kristy Lin*, Rachel Spade, Shandra Jamieson, Chris Nelson, 2023. Student-Driven Engineering of Teaching Electronic Medical Records Systems for Clinical Simulation and Evaluation; In 23rd Annual Health Innovation Research Day, Urbana, IL. **In Review.** 
 1. **Aditya Vaidyam** , Kamryn Abraskin*, Ryan Monjazeb*, Tarika Patel*, Chad Olson, Jessica Saw, 2023. MedTerms: Co-designing with CIMED Students to Build Medical Education Software; In International Association of Medical Science Educators 2024 Annual Conference, Minneapolis, MN. **In Review.** 
 1. **Aditya Vaidyam** , Kamryn Abraskin*, Ryan Monjazeb*, Tarika Patel*, Chad Olson, Jessica Saw, 2023. MedTerms: Student Co-Design towards Engineering Effective Medical Education Software; In 23rd Annual Health Innovation Research Day, Urbana, IL. **In Review.** 
