@@ -46,7 +46,8 @@ Aditya Vaidyam is a second-year medical student at the Carle Illinois College of
 
 # Popular Press
 
-1. **Vaidyam A** & Torous J. Chatbots: What Are They and Why Care?; In Psychiatric Times, June 2019.
+1. **Vaidyam A** & Torous J. Chatbots: What Are They and Why Care?; In Psychiatric Times, June 2019. https://www.psychiatrictimes.com/view/chatbots-what-are-they-and-why-care
+2. Hoffman L, **Vaidyam A**, Wisniewski H, Henson P, Hays R, Hendel V, Keshavan M, Torous J. Digital Opportunities for Outcomes in Recovery Services. In Wolters-Kluver. March 2020. https://cdn-links.lww.com/permalink/jpp/a/jpp_2020_02_03_torous_pra-d-19-00088r1_sdc2.pdf
 
 # Abstracts & Posters
 
