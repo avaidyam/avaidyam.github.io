@@ -2,8 +2,8 @@ Aditya Vaidyam is a second-year medical student at the Carle Illinois College of
 
 # Presentations
 
-1. **Vaidyam A.** Student plenary speaker. The 2025 Biostatistics, Epidemiology, and Research Design (BERD) Conference. UIUC BERD Core, October 2025.
-1. **Vaidyam A.** Student plenary speaker. The 2025 Empowering Empathy Workshop. XR + AI for Empathy Training, April 2025.
+1. **Vaidyam A.** Turning Data Into Discovery: Advancing Health Through Biostatistics (Plenary Speaker). The 2025 Biostatistics, Epidemiology, and Research Design (BERD) Conference. UIUC BERD Core, October 2025.
+1. **Vaidyam A.** Healthcare Panel & Strategic Discussion (Plenary Speaker). The 2025 Empowering Empathy Workshop. XR + AI for Empathy Training, April 2025.
 1. **Vaidyam A.** The Evolving Landscape of Generative AI in Clinical Care: Exploring the Structure and Function of Generative Pre-trained Transformers; IEEE Engineering in Medicine and Biology Society — Central Indiana Section, March 2024
 1. **Vaidyam A** & Blake S, Corbins K*, Silberstein M*, Limaye S*. The Evolving Landscape of Generative AI in Mental Health: Exploring the Promise and Pitfalls of Large Language Models towards Improving Access to Care; Carle Illinois College of Medicine RISE Seminar, Jan. 2024
 1. **Vaidyam A.** Mental Health Apps; Carle Illinois College of Medicine THRIVE Seminar, March 2023
