@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.21",
-    "@docusaurus/plugin-client-redirects": "^2.0.0-beta.21",
-    "@docusaurus/preset-classic": "^2.0.0-beta.21",
-    "@docusaurus/utils": "^2.0.0-beta.21",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "@docusaurus/core": "^3.10.0",
+    "@docusaurus/plugin-client-redirects": "^3.10.0",
+    "@docusaurus/preset-classic": "^3.10.0",
+    "@docusaurus/utils": "^3.10.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "overrides": {
+    "webpackbar": "^7.0.0"
   },
   "scripts": {
     "fix-config": "echo \"module.exports = require('./package.json').docusaurus\" > docusaurus.config.js",
@@ -35,9 +38,7 @@
           "loose": true,
           "corejs": "3",
           "modules": false,
-          "exclude": [
-            "transform-typeof-symbol"
-          ]
+          "exclude": ["transform-typeof-symbol"]
         }
       ],
       "@babel/preset-react",
@@ -59,16 +60,8 @@
     ]
   },
   "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "production": [">0.5%","not dead","not op_mini all"],
+    "development": ["last 1 chrome version","last 1 firefox version","last 1 safari version"]
   },
   "docusaurus": {
     "title": "Aditya Vaidyam",
@@ -80,7 +73,11 @@
     "baseUrl": "/",
     "onBrokenLinks": "warn",
     "onDuplicateRoutes": "warn",
-    "onBrokenMarkdownLinks": "warn",
+    "markdown": {
+      "hooks": {
+        "onBrokenMarkdownLinks": "warn"
+      }
+    },
     "themeConfig": {
       "defaultMode": "light",
       "disableSwitch": false,
