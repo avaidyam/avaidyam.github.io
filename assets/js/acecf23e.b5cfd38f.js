@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkAditya_Vaidyam=globalThis.webpackChunkAditya_Vaidyam||[]).push([[903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Aditya Vaidyam","authorsListPath":"/blog/authors"}')}}]);
